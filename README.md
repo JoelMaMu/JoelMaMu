@@ -1,5 +1,5 @@
 <h1 Hi 👋, I'm Joël MAKILA MUNANGA</h1>
-<h3 >A passionate about Data analysLet's analyze📈, Data science📊 and AI 🤖.</h3>
+<h3 >A passionate about Data analysis 📈, Data science 📊 and AI 🤖.</h3>
 
 - 🌱 I’m currently learning **Machine Learning with TensorFlow**
 
