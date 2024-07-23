@@ -9,19 +9,19 @@
 <p align="left">
 </p>
 
-<h4 align="left"Database :</h3>
-<p
+<h4 align="left">Database :</h4>
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-</p>
+
   
-<h3 align="left" Dev/Forum :</h3>
+<h3 align="left">Dev/Forum :</h3>
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<h3 align="left" Framework :</h3>
+<h3 align="left">Framework :</h3>
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<h3 align="left" IDE/Editor :</h3>
+<h3 align="left">IDE/Editor :</h3>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
