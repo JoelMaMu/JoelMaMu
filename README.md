@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I like Basketball**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/joel-makila-munanga-2026401a4</h3>
 <p align="left">
 </p>
 
