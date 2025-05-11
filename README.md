@@ -8,7 +8,7 @@
 
 
 
-<h1 > My skills </h1>
+<h2> My skills </h2>
 <h1 align="left">Languages 📋:</h1>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
