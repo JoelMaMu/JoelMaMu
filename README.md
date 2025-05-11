@@ -1,10 +1,10 @@
 <h2>Who am I ?</h2>
-<h3>I'm Joël MAKILA MUNANGA 🙎🏾‍♂️</h3>
+<h4>I'm Joël MAKILA MUNANGA 🙎🏾‍♂️</h4>
 
 <h2>What i like to do ?</h2>
-<h3> - Passionate about analyzing 🔎 and adding value to data 📊, I'm as interested in structuring it as I am in interpreting it.</h3>
-<h3> - My aim is to create effective solutions, from raw data ingestion through to prediction and visualization 💻.</h3>
-<h3> - I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering 👨🏾‍💻, etc.</h3>
+<h4> - Passionate about analyzing 🔎 and adding value to data 📊, I'm as interested in structuring it as I am in interpreting it.</h4>
+<h4> - My aim is to create effective solutions, from raw data ingestion through to prediction and visualization 💻.</h4>
+<h4> - I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering 👨🏾‍💻, etc.</h4>
 
 
 <h1> My skills </h1>
