@@ -1,4 +1,4 @@
-<h1 I'm Joël MAKILA MUNANGA</h1>
+<h1> I'm Joël MAKILA MUNANGA</h1>
 <h1>Passionate about analyzing and adding value to data, I'm as interested in structuring it as I am in interpreting it.</h1>
 <h1>My aim is to create effective solutions, from raw data ingestion through to prediction and visualization.</h1>
 
