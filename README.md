@@ -1,8 +1,8 @@
 <h1 I'm Joël MAKILA MUNANGA</h1>
-<h3 >Passionate about analyzing and adding value to data, I'm as interested in structuring it as I am in interpreting it. 
-  My aim is to create effective solutions, from raw data ingestion through to prediction and visualization.</h3>
+<h3 >Passionate about analyzing and adding value to data, I'm as interested in structuring it as I am in interpreting it.</h3>
+<h3 > My aim is to create effective solutions, from raw data ingestion through to prediction and visualization.</h3>
 
-<h3 >I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering, etc.</h3>
+<h2 >I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering, etc.</h2>
 
 <p align="left">
 </p>
