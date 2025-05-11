@@ -1,14 +1,14 @@
-<h1 Hi 👋, I'm Joël MAKILA MUNANGA</h1>
-<h3 >A passionate about Data analysis 📈, Data science 📊 and AI 🤖.</h3>
+<h1 I'm Joël MAKILA MUNANGA</h1>
+<h3 >Passionate about analyzing and adding value to data, I'm as interested in structuring it as I am in interpreting it. 
+  My aim is to create effective solutions, from raw data ingestion through to prediction and visualization.</h3>
 
-- 🌱 I’m currently learning **Machine Learning with TensorFlow**
-
-- ⚡ Fun fact **I like Basketball**
-
+<h3 >I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering, etc.</h3>
 
 <p align="left">
 </p>
 
+
+<h3 > My skills </h3>
 <h4 align="left">Languages 📋:</h4>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,17 +28,6 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-
-<h4 align="left">Testing 🧪:</h4>
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-  
-<h4 align="left">Dev/Forum 🧑‍💻:</h4>
-
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) 
 
 <h4 align="left">Framework 📚:</h4> 
 
