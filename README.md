@@ -1,42 +1,91 @@
-<h2>Who am I ?</h2>
-<h4>I'm Joël MAKILA MUNANGA 🙎🏾‍♂️</h4>
+# Joël - QA Automation Engineer
 
-<h2>What i like to do ?</h2>
-<h4> - Passionate about analyzing 🔎 and adding value to data 📊, I'm as interested in structuring it as I am in interpreting it.</h4>
-<h4> - My aim is to create effective solutions, from raw data ingestion through to prediction and visualization 💻.</h4>
-<h4> - I analyze what can be gained from good data through various professions such as data analysis, data science, data engineering 👨🏾‍💻, etc.</h4>
+<div align="center">
 
+![QA Automation](https://img.shields.io/badge/QA%20Automation-Expert-blue?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-TypeScript-green?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-E2E%20%7C%20Integration-orange?style=flat-square)
 
-<h1> My skills </h1>
-<h2 align="left">Languages 📋:</h2>
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-<h2 align="left">ML 🖥️:</h2>
+## 👋 À propos de moi
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+QA Automation Engineer en test d'automatisation. Spécialisé dans la création de suites de tests robustes et maintenables. 
 
-<h2 align="left">Database 💾:</h2>
+---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+## 🛠️ Compétences Techniques
 
-<h2 align="left">Framework 📚:</h2> 
+### Frameworks de Test
+- **Playwright** - Automation cross-browser (Web, Mobile, API)
+- **TypeScript** - Type-safe test automation
+- **Selenium WebDriver** - Browser automation & testing
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### Outils & Technologies
+- **ChromeDriver** - Chrome browser automation
+- **Jest** - Test framework & assertions
+- **Mocha/Chai** - BDD testing
+- **GitHub Actions** - CI/CD pipelines
+- **Docker** - Test environment containerization
 
-<h2 align="left">IDE/Editor 💻:</h2>
+### Pratiques
+- End-to-End Testing (E2E)
+- Integration Testing
+- API Testing
+- Page Object Model (POM)
+- Test Data Management
+- Performance Testing
+- Cross-browser Testing
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+## 📊 Réalisations Clés
 
+- 🎯 Développement de suites de tests E2E complètes pour applications web modernes
+- 🔄 Implémentation de pipelines CI/CD automatisés réduisant les cycles de release
+- 📈 Architecture de frameworks de test scalables et maintenables
+- 🐛 Identification et documentation de bugs critiques avant production
 
+---
 
+## 💼 Projets
 
+### [E-Commerce Test Automation Suite](./projects/ecommerce-automation)
+Suite de tests complète pour une plateforme e-commerce utilisant Playwright et TypeScript.
 
+**Technologies:** Playwright · TypeScript · Jest · Page Object Model
+
+---
+
+## 📚 Stack Principal
+
+| Catégorie | Technologies |
+|-----------|--------------|
+| **Languages** | TypeScript, JavaScript |
+| **Test Frameworks** | Playwright, Selenium, Jest, Mocha |
+| **CI/CD** | GitHub Actions, Docker |
+| **Tools** | VS Code, Chrome DevTools, Postman |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 🔗 Liens
+
+- 💻 [GitHub](https://github.com)
+- 💼 [LinkedIn](https://linkedin.com)
+- 📧 Contact: joel@email.com
+
+---
+
+## 📈 Statistiques
+
+- **Années d'expérience:** 3+ ans
+- **Frameworks maîtrisés:** 3+
+- **Projets complétés:** 10+
+- **Coverage moyen:** 85%+
+
+---
+
+*Last Updated: 2024*
