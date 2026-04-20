@@ -10,27 +10,27 @@
 
 ---
 
-## 👋 À propos de moi
+## 👋 About Me
 
-QA Automation Engineer en test d'automatisation. Spécialisé dans la création de suites de tests robustes et maintenables. 
+QA Automation Engineer. Specialized in building robust and maintainable test suites. 
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Technical Skills
 
-### Frameworks de Test
-- **Playwright** - Automation cross-browser (Web, Mobile, API)
+### Test Frameworks
+- **Playwright** - Cross-browser automation (Web, Mobile, API)
 - **TypeScript** - Type-safe test automation
 - **Selenium WebDriver** - Browser automation & testing
 
-### Outils & Technologies
+### Tools & Technologies
 - **ChromeDriver** - Chrome browser automation
 - **Jest** - Test framework & assertions
 - **Mocha/Chai** - BDD testing
 - **GitHub Actions** - CI/CD pipelines
 - **Docker** - Test environment containerization
 
-### Pratiques
+### Practices
 - End-to-End Testing (E2E)
 - Integration Testing
 - API Testing
@@ -41,27 +41,27 @@ QA Automation Engineer en test d'automatisation. Spécialisé dans la création 
 
 ---
 
-## 📊 Réalisations Clés
+## 📊 Key Achievements
 
-- 🎯 Développement de suites de tests E2E complètes pour applications web modernes
-- 🔄 Implémentation de pipelines CI/CD automatisés réduisant les cycles de release
-- 📈 Architecture de frameworks de test scalables et maintenables
-- 🐛 Identification et documentation de bugs critiques avant production
+- 🎯 Developed comprehensive E2E test suites for modern web applications
+- 🔄 Implemented automated CI/CD pipelines reducing release cycles
+- 📈 Architected scalable and maintainable test frameworks
+- 🐛 Identified and documented critical bugs before production
 
 ---
 
-## 💼 Projets
+## 💼 Projects
 
-### [E-Commerce Test Automation Suite](./projects/ecommerce-automation)
-Suite de tests complète pour une plateforme e-commerce utilisant Playwright et TypeScript.
+### [Playwright Automation Tests](https://github.com/JoelMaMu/Playwright-automation-tests)
+Comprehensive test suite automating tests using Playwright and TypeScript.
 
 **Technologies:** Playwright · TypeScript · Jest · Page Object Model
 
 ---
 
-## 📚 Stack Principal
+## 📚 Core Stack
 
-| Catégorie | Technologies |
+| Category | Technologies |
 |-----------|--------------|
 | **Languages** | TypeScript, JavaScript |
 | **Test Frameworks** | Playwright, Selenium, Jest, Mocha |
@@ -71,21 +71,10 @@ Suite de tests complète pour une plateforme e-commerce utilisant Playwright et 
 
 ---
 
-## 🔗 Liens
+## 🔗 Links
 
-- 💻 [GitHub](https://github.com)
-- 💼 [LinkedIn](https://linkedin.com)
-- 📧 Contact: joel@email.com
+- 💻 [GitHub](https://github.com/JoelMaMu)
 
 ---
 
-## 📈 Statistiques
-
-- **Années d'expérience:** 3+ ans
-- **Frameworks maîtrisés:** 3+
-- **Projets complétés:** 10+
-- **Coverage moyen:** 85%+
-
----
-
-*Last Updated: 2024*
+*Last Updated: 2026*
