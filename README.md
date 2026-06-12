@@ -24,20 +24,24 @@ QA Automation Engineer. Specialized in building robust and maintainable test sui
 - **Selenium WebDriver** - Browser automation & testing
 
 ### Tools & Technologies
-- **ChromeDriver** - Chrome browser automation
-- **Jest** - Test framework & assertions
-- **Mocha/Chai** - BDD testing
+- **Cucumber.js** - BDD testing with Gherkin
+- **Axios** - API test clients
+- **PostgreSQL** - Database verification
+- **Allure** - Test reporting
+- **k6** - Load & performance testing
+- **@faker-js/faker** - Test data generation
 - **GitHub Actions** - CI/CD pipelines
-- **Docker** - Test environment containerization
+- **Docker / docker-compose** - Test environment containerization
 
 ### Practices
 - End-to-End Testing (E2E)
-- Integration Testing
+- Behavior-Driven Development (BDD)
 - API Testing
-- Page Object Model (POM)
+- Page Object Model (POM) with fluent pattern
 - Test Data Management
 - Performance Testing
 - Cross-browser Testing
+- UI / Database Cross-Checking
 
 ---
 
@@ -52,10 +56,16 @@ QA Automation Engineer. Specialized in building robust and maintainable test sui
 
 ## 💼 Projects
 
-### [Playwright Automation Tests](https://github.com/JoelMaMu/Playwright-automation-tests)
-Comprehensive test suite automating tests using Playwright and TypeScript.
+### [QA Automation Engineer - Portfolio](https://github.com/JoelMaMu/QA-Automation-Engineer)
+Portfolio repository gathering test automation projects, with a focus on test
+architecture, tooling choices and CI integration.
 
-**Technologies:** Playwright · TypeScript · Jest · Page Object Model
+**Featured project - Banking Dashboard Test Suite:** E2E, API and performance
+test suite for a banking dashboard (authentication, accounts, transfers,
+transactions, KYC profile, notifications), with BDD coverage on critical
+flows and UI/database cross-checks.
+
+**Technologies:** Playwright · TypeScript · Cucumber.js · Axios · PostgreSQL · Allure · k6 · Docker · GitHub Actions
 
 ---
 
@@ -64,7 +74,9 @@ Comprehensive test suite automating tests using Playwright and TypeScript.
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | TypeScript, JavaScript |
-| **Test Frameworks** | Playwright, Selenium, Jest, Mocha |
+| **Test Frameworks** | Playwright, Cucumber.js, Selenium |
+| **API & Data** | Axios, PostgreSQL, @faker-js/faker |
+| **Reporting & Performance** | Allure, k6 |
 | **CI/CD** | GitHub Actions, Docker |
 | **Tools** | VS Code, Chrome DevTools, Postman |
 | **Version Control** | Git, GitHub |
@@ -77,4 +89,4 @@ Comprehensive test suite automating tests using Playwright and TypeScript.
 
 ---
 
-*Last Updated: 2026*
+*Last Updated: June 2026*
