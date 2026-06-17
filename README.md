@@ -1,92 +1,69 @@
-# Joël - QA Automation Engineer
+# Joël M. — QA Automation & AI Engineering
 
 <div align="center">
 
-![QA Automation](https://img.shields.io/badge/QA%20Automation-Expert-blue?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-TypeScript-green?style=flat-square)
-![Testing](https://img.shields.io/badge/Testing-E2E%20%7C%20Integration-orange?style=flat-square)
+[![QA Automation](https://img.shields.io/badge/QA%20Automation-Expert-4A90D9?style=flat-square&logo=playwright&logoColor=white)](https://github.com/JoelMaMu/QA-Automation-Engineer)
+[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Building-10B981?style=flat-square&logo=openai&logoColor=white)](https://github.com/JoelMaMu/Compliance_Ai)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-7C3AED?style=flat-square)](https://github.com/JoelMaMu/Compliance_Ai)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-QA Automation Engineer. Specialized in building robust and maintainable test suites. 
+QA Automation Engineer with solid experience building E2E, API, and performance test suites — now transitioning into AI Engineering.
 
----
+The bridge between both worlds: I bring **engineering rigour** (traceability, evaluation, CI/CD, test discipline) into AI system design, an area where it is still rare and highly valued.
 
-## 🛠️ Technical Skills
-
-### Test Frameworks
-- **Playwright** - Cross-browser automation (Web, Mobile, API)
-- **TypeScript** - Type-safe test automation
-- **Selenium WebDriver** - Browser automation & testing
-
-### Tools & Technologies
-- **Cucumber.js** - BDD testing with Gherkin
-- **Axios** - API test clients
-- **PostgreSQL** - Database verification
-- **Allure** - Test reporting
-- **k6** - Load & performance testing
-- **@faker-js/faker** - Test data generation
-- **GitHub Actions** - CI/CD pipelines
-- **Docker / docker-compose** - Test environment containerization
-
-### Practices
-- End-to-End Testing (E2E)
-- Behavior-Driven Development (BDD)
-- API Testing
-- Page Object Model (POM) with fluent pattern
-- Test Data Management
-- Performance Testing
-- Cross-browser Testing
-- UI / Database Cross-Checking
+Currently building production-grade AI systems: multi-agent pipelines, RAG architectures, human-in-the-loop workflows.
 
 ---
 
-## 📊 Key Achievements
+## Featured Projects
 
-- 🎯 Developed comprehensive E2E test suites for modern web applications
-- 🔄 Implemented automated CI/CD pipelines reducing release cycles
-- 📈 Architected scalable and maintainable test frameworks
-- 🐛 Identified and documented critical bugs before production
+### AI Engineering
 
----
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [**Compliance AI**](https://github.com/JoelMaMu/Compliance_Ai) | LangGraph · RAG · Mistral 7B · Qdrant · PostgreSQL | Multi-agent system that analyses internal documents against regulatory corpora (DORA, GDPR, AI Act, Basel IV), flags non-compliance, routes uncertain findings to human review, and generates a full traceable audit report |
+| [**AI Agent**](https://github.com/JoelMaMu/Ai_agent) | LangGraph · Claude Sonnet · ReAct | Conversational CLI agent with tool-use via LangGraph's ReAct architecture |
 
-## 💼 Projects
+### QA Automation
 
-### [QA Automation Engineer - Portfolio](https://github.com/JoelMaMu/QA-Automation-Engineer)
-Portfolio repository gathering test automation projects, with a focus on test
-architecture, tooling choices and CI integration.
-
-**Featured project - Banking Dashboard Test Suite:** E2E, API and performance
-test suite for a banking dashboard (authentication, accounts, transfers,
-transactions, KYC profile, notifications), with BDD coverage on critical
-flows and UI/database cross-checks.
-
-**Technologies:** Playwright · TypeScript · Cucumber.js · Axios · PostgreSQL · Allure · k6 · Docker · GitHub Actions
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [**QA Automation Portfolio**](https://github.com/JoelMaMu/QA-Automation-Engineer) | Playwright · TypeScript · Cucumber.js · k6 · Docker | E2E, API, BDD and performance test suites for a banking dashboard — auth, accounts, transfers, KYC, with UI/DB cross-checks and CI integration |
 
 ---
 
-## 📚 Core Stack
+## Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | TypeScript, JavaScript |
-| **Test Frameworks** | Playwright, Cucumber.js, Selenium |
-| **API & Data** | Axios, PostgreSQL, @faker-js/faker |
-| **Reporting & Performance** | Allure, k6 |
-| **CI/CD** | GitHub Actions, Docker |
-| **Tools** | VS Code, Chrome DevTools, Postman |
-| **Version Control** | Git, GitHub |
+**AI & Agents**
+`LangGraph` `LangChain` `RAG` `Qdrant` `Ollama / Mistral 7B` `Claude (Anthropic)` `RAGAS` `Python`
 
----
+**QA & Automation**
+`Playwright` `TypeScript` `Cucumber.js` `Selenium` `k6` `Allure` `Axios`
 
-## 🔗 Links
-
-- 💻 [GitHub](https://github.com/JoelMaMu)
+**Infrastructure**
+`PostgreSQL` `Docker / docker-compose` `GitHub Actions` `structlog`
 
 ---
 
-*Last Updated: June 2026*
+## Approach
+
+Coming from QA, I design AI systems the same way I design test suites:
+
+- **Every decision is traceable** — each agent logs its reasoning, inputs, confidence score, and model used before handing off to the next step
+- **Human oversight is a hard requirement, not a nice-to-have** — critical findings pause the pipeline and wait for human validation before the report is finalised
+- **Honest about limitations** — documented explicitly in code, not hidden behind optimistic demos
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelMaMu&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
