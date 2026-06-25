@@ -14,7 +14,7 @@
 
 ## About
 
-QA Automation Engineer with solid experience building E2E, API, and performance test suites — now transitioning into AI Engineering.
+QA Automation Engineer with solid experience building E2E, API, and performance test suites, now transitioning into AI Engineering.
 
 The bridge between both worlds: I bring **engineering rigour** (traceability, evaluation, CI/CD, test discipline) into AI system design, an area where it is still rare and highly valued.
 
@@ -57,8 +57,8 @@ Currently building production-grade AI systems: multi-agent pipelines, RAG archi
 Coming from QA, I design AI systems the same way I design test suites:
 
 - **Every decision is traceable** — each agent logs its reasoning, inputs, confidence score, and model used before handing off to the next step
-- **Human oversight is a hard requirement, not a nice-to-have** — critical findings pause the pipeline and wait for human validation before the report is finalised
-- **Honest about limitations** — documented explicitly in code, not hidden behind optimistic demos
+- **Human oversight is a hard requirement, not a nice-to-have** ; critical findings pause the pipeline and wait for human validation before the report is finalised
+- **Honest about limitations** ; documented explicitly in code, not hidden behind optimistic demos
 
 ---
 
