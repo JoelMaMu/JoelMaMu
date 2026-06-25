@@ -1,4 +1,4 @@
-# Joël M. — QA Automation & Generative AI Engineering
+# Joël M. — QA Automation & AI Engineering
 
 <div align="center">
 
